@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 optionOut = 5  # Var para iniciar o looping
-filePath = Path('arquivos/')
+filePath = Path('database/')
 file = filePath / 'cadastro.txt'
 
 

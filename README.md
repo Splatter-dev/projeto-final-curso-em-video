@@ -6,7 +6,7 @@ Projeto final do curso de Python - Curso em Vídeo
 -------------------------------------------------
 
 
-A aplicação tem como objetivo armazenar o formulário preenchido pelo usuário em um arquivo de texto. As informações são as seguintes:
+A aplicação tem como objetivo armazenar o formulário preenchido pelo usuário em um fake db. As informações são as seguintes:
 
 * Nome
 * Idade

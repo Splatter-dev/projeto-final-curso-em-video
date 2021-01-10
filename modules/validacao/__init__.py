@@ -1,4 +1,4 @@
-import modules.cores as colour
+import modules.colours as colour
 
 
 def optionValidation(msg):

@@ -1,4 +1,4 @@
-import modules.cores as colour
+import modules.colours as colour
 import modules.arquivo as file
 import modules.validacao as validation
 from time import sleep
