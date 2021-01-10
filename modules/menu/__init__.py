@@ -1,6 +1,6 @@
 import modules.colours as colour
-import modules.arquivo as file
-import modules.validacao as validation
+import modules.file_func as file
+import modules.validation as validation
 from time import sleep
 
 

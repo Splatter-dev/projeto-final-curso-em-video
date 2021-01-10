@@ -1,6 +1,6 @@
 import modules.menu as menu
-import modules.validacao as option
-import modules.arquivo as arquivo
+import modules.validation as option
+import modules.file_func as arquivo
 from pathlib import Path
 
 
